@@ -182,6 +182,7 @@ class Responses(commands.Cog, name='General'):
             '\n• Piston a.k.a. Felix Run: <https://github.com/engineer-man/piston>' +
             '\n• Reddit: <https://www.reddit.com/r/engineerman/>' +
             '\n• Twitter: <https://twitter.com/_EngineerMan>'
+            '\n• Facebook: <https://www.facebook.com/engineermanyt>'
         )
 
         e = Embed(title='Links',
